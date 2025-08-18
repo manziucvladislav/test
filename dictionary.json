@@ -1,4 +1,2512 @@
-  },
+[
+  {
+    "text": "a, ab (с Acc.) – от"
+  },
+  {
+    "text": "abdomen, inis, n – живот, брюхо"
+  },
+  {
+    "text": "abdominalis, e – брюшной, ая, ое"
+  },
+  {
+    "text": "abducens, entis – отводящий, ая, ое (нерв)"
+  },
+  {
+    "text": "abduco, ĕre, III – отводить"
+  },
+  {
+    "text": "abductor, oris, m – отводящая (мышца)"
+  },
+  {
+    "text": "ablatio, onis, f – аблация, удаление, отслоение"
+  },
+  {
+    "text": "abortus, us, m – аборт, выкидыш"
+  },
+  {
+    "text": "abrasio, onis, f – выскабливание"
+  },
+  {
+    "text": "abscessus, us, m – абсцесс, гнойник, нарыв"
+  },
+  {
+    "text": "absens, entis – отсутствующий, ая, ое"
+  },
+  {
+    "text": "absentia, ae, f – отсутствие"
+  },
+  {
+    "text": "absque – без"
+  },
+  {
+    "text": "abstractus, a, um – абстрактный, ая, ое"
+  },
+  {
+    "text": "ac – и, а также"
+  },
+  {
+    "text": "academia, ae, f – академия"
+  },
+  {
+    "text": "acaulis, e – стебельчатый / безстебельный, ая, ое"
+  },
+  {
+    "text": "accessorius, a, um – добавочный, ая, ое"
+  },
+  {
+    "text": "accidentalis, e – случайный, ая, ое"
+  },
+  {
+    "text": "accumulatio, onis, f – накопление"
+  },
+  {
+    "text": "accuso, are, I – обвинять"
+  },
+  {
+    "text": "acer, cris, cre – острый, ая, ое"
+  },
+  {
+    "text": "acetabulum, i, n – вертлужная впадина"
+  },
+  {
+    "text": "acetylsalicylicus, a, um – ацетилсалициловый, ая, ое"
+  },
+  {
+    "text": "Achilles, is, m – Ахилл (греческий герой)"
+  },
+  {
+    "text": "acidum, i, n – кислота"
+  },
+  {
+    "text": "acquisitus, a, um – приобретенный, ая, ое"
+  },
+  {
+    "text": "acromialis, e – акромиальный, ая, ое"
+  },
+  {
+    "text": "acromion, i, n – акромион"
+  },
+  {
+    "text": "actio, onis, f – действие"
+  },
+  {
+    "text": "activatus, a, um – активированный, ая, ое"
+  },
+  {
+    "text": "actus, us, m – акт, действие, движение"
+  },
+  {
+    "text": "acusticus, a, um – слуховой, акустический, ая, ое"
+  },
+  {
+    "text": "acutus, a, um – острый, ая, ое"
+  },
+  {
+    "text": "ad, (с Acc.) – к, до, для, при"
+  },
+  {
+    "text": "aden, enis, m – железа (клинический термин)"
+  },
+  {
+    "text": "addo, ĕre, III – добавлять"
+  },
+  {
+    "text": "adductor, oris, m – приводящая (мышца)"
+  },
+  {
+    "text": "adhibeo, ere, II – применять"
+  },
+  {
+    "text": "adipōsus, a, um – жирный, жировой, ая, ое"
+  },
+  {
+    "text": "aditus, us, m – вход"
+  },
+  {
+    "text": "adjuto, are, I – помогать, содействовать"
+  },
+  {
+    "text": "adjuvans, antis – помогающий, вспомогательный, ая, ое"
+  },
+  {
+    "text": "adjuvo, are, I – помогать"
+  },
+  {
+    "text": "adonis, idis, m, f – адонис, горицвет"
+  },
+  {
+    "text": "adonisidum, i, n – адонизид"
+  },
+  {
+    "text": "adrenalinum, i, n – адреналин"
+  },
+  {
+    "text": "adultus, a, um – взрослый, совершеннолетний, ая, ое"
+  },
+  {
+    "text": "aeger, gra, grum – больной, нездоровый, ая, ое"
+  },
+  {
+    "text": "aeger, gri, m – больной"
+  },
+  {
+    "text": "aegrotus, a, um – больной, ая, ое"
+  },
+  {
+    "text": "aemulatio, onis, f – соревнование"
+  },
+  {
+    "text": "aequalis, e – равный, ая, ое"
+  },
+  {
+    "text": "aeque – равным образом, одинаково"
+  },
+  {
+    "text": "aer, aeris, m – воздух"
+  },
+  {
+    "text": "aerōnum, i, n – аэрон"
+  },
+  {
+    "text": "Aesculapius, i, m – Эскулап (бог врачебного искусства)"
+  },
+  {
+    "text": "aetas, atis, f – возраст"
+  },
+  {
+    "text": "aeternus, a, um – вечный, ая, ое"
+  },
+  {
+    "text": "aether, eris, m – эфир"
+  },
+  {
+    "text": "aethereus, a, um – эфирный, ая, ое"
+  },
+  {
+    "text": "aethylicus, a, um – этиловый, ая, ое"
+  },
+  {
+    "text": "aethylium, i, n – этил"
+  },
+  {
+    "text": "aethylmorphinum, i, n – этилморфин"
+  },
+  {
+    "text": "aevitum, i, n – аэвит"
+  },
+  {
+    "text": "afferens, entis – афферентный, приносящий, ая, ое"
+  },
+  {
+    "text": "affero, afferre – приносить"
+  },
+  {
+    "text": "agger, eris, m – утолщение"
+  },
+  {
+    "text": "agito, are, I – приводить в движение, двигать"
+  },
+  {
+    "text": "agnosco, ĕre, III – признавать, соглашаться"
+  },
+  {
+    "text": "ala, ae, f – крыло"
+  },
+  {
+    "text": "alaris, e – крыльный, ая, ое"
+  },
+  {
+    "text": "albumen, inis, n – белок"
+  },
+  {
+    "text": "albus, a, um – белый, ая, ое"
+  },
+  {
+    "text": "alcohol, olis, n – алкоголь"
+  },
+  {
+    "text": "alcoholicus, a, um – алкогольный, ая, ое"
+  },
+  {
+    "text": "alea, ae, f – жребий"
+  },
+  {
+    "text": "alienus, a, um – чужой, ая, ое"
+  },
+  {
+    "text": "alimentarius, a, um – алиментарный, пищевой, ая, ое"
+  },
+  {
+    "text": "alius, a, ud – другой, ая, ое"
+  },
+  {
+    "text": "allergicus, a, um – аллергический, ая, ое"
+  },
+  {
+    "text": "alo, ĕre, III – вскармливать, поддерживать"
+  },
+  {
+    "text": "aloe, es, f – алоэ, сабур"
+  },
+  {
+    "text": "alopecia, ae, f – алопеция, плешивость, облысение"
+  },
+  {
+    "text": "alter, era, erum – один из двух, другой, второй"
+  },
+  {
+    "text": "alternans, antis – чередующийся, переменный, ая, ое"
+  },
+  {
+    "text": "althaea, ae, f – алтей"
+  },
+  {
+    "text": "altus, a, um – высокий, ая, ое"
+  },
+  {
+    "text": "alumen, inis, n – квасцы (алюминиево-калиевые)"
+  },
+  {
+    "text": "alveolaris, e – альвеолярный, ая, ое"
+  },
+  {
+    "text": "alveolus, i, m – альвеола (ячейка, луночка)"
+  },
+  {
+    "text": "alvus, i, f – живот"
+  },
+  {
+    "text": "amabilis, e – любезный, милый, приятный, ая, ое"
+  },
+  {
+    "text": "amans, antis – любящий, любимый, ая, ое"
+  },
+  {
+    "text": "amarus, a, um – горький, ая, ое"
+  },
+  {
+    "text": "amens, entis – безумный, ая, ое"
+  },
+  {
+    "text": "amica, ae, f – подруга"
+  },
+  {
+    "text": "amicitia, ae, f – дружба"
+  },
+  {
+    "text": "amicus, i, m – друг"
+  },
+  {
+    "text": "amidochloridum, i, n – амидохлорид"
+  },
+  {
+    "text": "aminazinum, i, n – аминазин"
+  },
+  {
+    "text": "ammoniatus, a, um – аммиачный, ая, ое"
+  },
+  {
+    "text": "amnion, i, n – амнион"
+  },
+  {
+    "text": "amo, are, I – любить"
+  },
+  {
+    "text": "amor, oris, m – любовь"
+  },
+  {
+    "text": "amorphus, a, um – аморфный, ая, ое"
+  },
+  {
+    "text": "ampicillinum, i, n – ампициллин"
+  },
+  {
+    "text": "ampulla, ae, f – ампула"
+  },
+  {
+    "text": "ampullaris, e – ампулярный, ая, ое"
+  },
+  {
+    "text": "amputatio, onis, f – ампутация"
+  },
+  {
+    "text": "amygdalus, i, f – миндаль (дерево)"
+  },
+  {
+    "text": "amygdala, ae, f – миндаль (плод)"
+  },
+  {
+    "text": "amylium, i, n – амил"
+  },
+  {
+    "text": "amylum, i, n – крахмал"
+  },
+  {
+    "text": "ana – поровну"
+  },
+  {
+    "text": "anaesthesinum, i, n – анестезин"
+  },
+  {
+    "text": "analginum, i, n – анальгин"
+  },
+  {
+    "text": "analis, e – анальный, заднепроходный, ая, ое"
+  },
+  {
+    "text": "analysis, is, f – анализ"
+  },
+  {
+    "text": "anamnesis, is, f – анамнез, воспоминание"
+  },
+  {
+    "text": "anatomicus, a, um – анатомический, ая, ое"
+  },
+  {
+    "text": "aneurysma, atis, n – аневризма"
+  },
+  {
+    "text": "angioneuroticus, a, um – ангионевротический, ая, ое"
+  },
+  {
+    "text": "angulus, i, m – угол"
+  },
+  {
+    "text": "animal, alis, n – животное"
+  },
+  {
+    "text": "animalis, e – животный, ая, ое"
+  },
+  {
+    "text": "animus, i, m – дух, душа; ум"
+  },
+  {
+    "text": "anisum, i, n – анис"
+  },
+  {
+    "text": "ankylosis, is, f – анкилоз"
+  },
+  {
+    "text": "annus, i, m – год"
+  },
+  {
+    "text": "ansa, ae, f – петля (дугообразное образование)"
+  },
+  {
+    "text": "anserinus, a, um – гусиный, ая, ое"
+  },
+  {
+    "text": "ante (с Acc.) – до, раньше"
+  },
+  {
+    "text": "anterior, ius – передний"
+  },
+  {
+    "text": "anthelminthicus, a, um – противоглистный, ая, ое"
+  },
+  {
+    "text": "anthrax, acis, m – сибирская язва"
+  },
+  {
+    "text": "antiasthmaticus, a, um – противоастматический, ая, ое"
+  },
+  {
+    "text": "antibioticum, i, n – антибиотик"
+  },
+  {
+    "text": "antidotum, i, n – антидот, противоядие"
+  },
+  {
+    "text": "antisepticus, a, um – антисептический, ая, ое"
+  },
+  {
+    "text": "antrum, i, n – пещера (полость)"
+  },
+  {
+    "text": "anulus, i, m – кольцо"
+  },
+  {
+    "text": "anus, i, m – анус, задний проход"
+  },
+  {
+    "text": "aorta, ae, f – аорта"
+  },
+  {
+    "text": "aorticus, a, um – аортальный, ая, ое"
+  },
+  {
+    "text": "apertura, ae, f – апертура (отверстие)"
+  },
+  {
+    "text": "apertus, a, um – открытый, ая, ое"
+  },
+  {
+    "text": "apex, icis, m – верхушка, кончик"
+  },
+  {
+    "text": "aphthae, arum, f – афты"
+  },
+  {
+    "text": "apomorphinum, i, n – апоморфин"
+  },
+  {
+    "text": "aponeurosis, is, f – апоневроз"
+  },
+  {
+    "text": "appendix, icis, f – аппендикс; придаток, отросток, привесок"
+  },
+  {
+    "text": "aqua, ae, f – вода"
+  },
+  {
+    "text": "aqueductus, us, m – водопровод"
+  },
+  {
+    "text": "aquila, ae, f – орел"
+  },
+  {
+    "text": "arachnoidea, ae, f – паутинная мозговая оболочка"
+  },
+  {
+    "text": "arbor, oris, f – дерево, древо"
+  },
+  {
+    "text": "arcuatus, a, um – дугообразный, ая, ое"
+  },
+  {
+    "text": "arcus, us, m – дуга"
+  },
+  {
+    "text": "area, ae, f – поле (кружок)"
+  },
+  {
+    "text": "argumentum, i, n – доказательство, довод"
+  },
+  {
+    "text": "armatus, a, um – вооруженный, ая, ое"
+  },
+  {
+    "text": "arnica, ae, f – арника"
+  },
+  {
+    "text": "arrhythmia, ae, f – аритмия"
+  },
+  {
+    "text": "ars, artis, f – искусство, наука, ремесло, занятие"
+  },
+  {
+    "text": "arsenis, itis, m – арсенит"
+  },
+  {
+    "text": "artefactum, i, n – артефакт, искусственное образование"
+  },
+  {
+    "text": "arteria, ae, f – артерия"
+  },
+  {
+    "text": "arteriosus, a, um – артериальный, ая, ое"
+  },
+  {
+    "text": "articularis, e – суставной, ая, ое"
+  },
+  {
+    "text": "articulatio, onis, f – сустав"
+  },
+  {
+    "text": "arytenoideus, a, um – черпаловидный, ая, ое"
+  },
+  {
+    "text": "ascendens, entis – восходящий, ая, ое"
+  },
+  {
+    "text": "ascendo, ĕre, III – восходить"
+  },
+  {
+    "text": "aseptice – асептически, в асептических условиях"
+  },
+  {
+    "text": "asinus, i, m – осёл"
+  },
+  {
+    "text": "asper, era, erum – шероховатый, суровый, ая, ое"
+  },
+  {
+    "text": "asperitas, atis, f – шероховатость"
+  },
+  {
+    "text": "asthenicus, a, um – астенический, ая, ое"
+  },
+  {
+    "text": "asthma, atis, n – астма (удушье)"
+  },
+  {
+    "text": "asthmaticus, a, um – астматический, ая, ое"
+  },
+  {
+    "text": "astrum, i, n – звезда"
+  },
+  {
+    "text": "atheroscleroticus, a, um – атеросклеротический, ая, ое"
+  },
+  {
+    "text": "atlas, antis, m – атлант (I шейный позвонок)"
+  },
+  {
+    "text": "atque – и, а также"
+  },
+  {
+    "text": "atrium, i, n – предсердие"
+  },
+  {
+    "text": "atrioventricularis, e – предсердно-желудочковый, ая, ое"
+  },
+  {
+    "text": "atrociter – жестоко, безжалостно"
+  },
+  {
+    "text": "atropinum, i, n – атропин"
+  },
+  {
+    "text": "auctor, oris, m – автор"
+  },
+  {
+    "text": "audeo, ēre, II – осмеливаться, решаться"
+  },
+  {
+    "text": "audio, īre, IV – слушать"
+  },
+  {
+    "text": "auditivus, a, um – слуховой, ая, ое"
+  },
+  {
+    "text": "auditus, us, m – способность слышать"
+  },
+  {
+    "text": "augeo, ĕre, II – умножать, увеличивать"
+  },
+  {
+    "text": "aureus, a, um – золотой, ая, ое"
+  },
+  {
+    "text": "auricula, ae, f – ушная раковина, ушко"
+  },
+  {
+    "text": "auncularis, e – ушной, ушковидный, ая, ое"
+  },
+  {
+    "text": "auris, is, f – ухо"
+  },
+  {
+    "text": "auscultatio, onis, f – аускультация, выслушивание"
+  },
+  {
+    "text": "aut – или"
+  },
+  {
+    "text": "autonomicus, a, um – автономный, вегетативный, ая, ое"
+  },
+  {
+    "text": "aveo, ēre, II – здравствовать"
+  },
+  {
+    "text": "avis, is, f – птица"
+  },
+  {
+    "text": "axillaris, e – подмышечный, ая, ое"
+  },
+  {
+    "text": "axis, is, m – ось, II шейный позвонок"
+  },
+  {
+    "text": "bacca, ae, f – ягода"
+  },
+  {
+    "text": "barba, ae, f – борода"
+  },
+  {
+    "text": "barbitalum, i, n – барбитал"
+  },
+  {
+    "text": "basilaris, e – базилярный, основной, ая, ое"
+  },
+  {
+    "text": "basis, is, f – основание, базис (основное средство в сложном рецепте)"
+  },
+  {
+    "text": "beatus, a, um – счастливый, ая, ое"
+  },
+  {
+    "text": "belladonna, ae, f – белладонна, красавка"
+  },
+  {
+    "text": "bene – хорошо"
+  },
+  {
+    "text": "benignus, a, um – доброкачественный, ая, ое"
+  },
+  {
+    "text": "benzoas, atis, m – бензоат"
+  },
+  {
+    "text": "benzoicus, a, um – бензойный, ая, ое"
+  },
+  {
+    "text": "benzonaphtholum, i, n – бензонафтол"
+  },
+  {
+    "text": "benzylpenicillinum, i, n – бензилпенициллин"
+  },
+  {
+    "text": "bibo, ĕre, III – пить"
+  },
+  {
+    "text": "biceps, cipitis – двуглавый, ая, ое"
+  },
+  {
+    "text": "bicuspidalis, e – двустворчатый, ая, ое"
+  },
+  {
+    "text": "bifurcatio, onis, f – бифуркация, раздвоение"
+  },
+  {
+    "text": "biliaris, e – желчный, билиарный (пузырь; общий желчный проток), ая, ое"
+  },
+  {
+    "text": "bilifer, era, erum – желчный (желчеотводящие протоки), ая, ое"
+  },
+  {
+    "text": "biliosus, a, um – желчный, ая, ое"
+  },
+  {
+    "text": "bini, ae, a – по два"
+  },
+  {
+    "text": "bis – дважды"
+  },
+  {
+    "text": "bivalens, entis – двухвалентный, ая, ое"
+  },
+  {
+    "text": "biventer, tra, trum – двубрюшный, ая, ое"
+  },
+  {
+    "text": "blepharon, i, n – веко"
+  },
+  {
+    "text": "bolus, i, f – глина, большая пилюля"
+  },
+  {
+    "text": "bonum, i, n – добро, благо"
+  },
+  {
+    "text": "bonus, a, um – хороший, добрый, ая, ое"
+  },
+  {
+    "text": "boricus, a, um – борный, ая, ое"
+  },
+  {
+    "text": "bos, bovis, m – бык"
+  },
+  {
+    "text": "bovinus, a, um – бычий, ая, ое"
+  },
+  {
+    "text": "brachium, i, n – плечо"
+  },
+  {
+    "text": "bregma, atis, n – брегма"
+  },
+  {
+    "text": "brevis, e – короткий, ая, ое"
+  },
+  {
+    "text": "breviter – кратко"
+  },
+  {
+    "text": "bromcamphora, ae, f – бромкамфора"
+  },
+  {
+    "text": "bromidum, i, n – бромид"
+  },
+  {
+    "text": "bronchialis, e – бронхиальный, относящийся к бронху, ая, ое"
+  },
+  {
+    "text": "bronchus, i, m – бронх"
+  },
+  {
+    "text": "bubo, onis, m – бубон (воспалительное опухание лимфатического узла)"
+  },
+  {
+    "text": "bucca, ae, f – щека"
+  },
+  {
+    "text": "buccalis, e – щечный, ая, ое"
+  },
+  {
+    "text": "buccinator, oris, m – букцинатор, щечная мышца"
+  },
+  {
+    "text": "bulbus, i, m – луковица (клубневидное утолщение)"
+  },
+  {
+    "text": "bulbus oculi – глазное яблоко"
+  },
+  {
+    "text": "bulla, ae, f – пузырь, пузырек"
+  },
+  {
+    "text": "bullosus, a, um – пузырчатый, ая, ое"
+  },
+  {
+    "text": "bursa, ae, f – сумка"
+  },
+  {
+    "text": "cacao, n – какао"
+  },
+  {
+    "text": "caecum, i, n – слепая кишка"
+  },
+  {
+    "text": "caecus, a, um – слепой, ая, ое"
+  },
+  {
+    "text": "cadaver, eris, n – труп"
+  },
+  {
+    "text": "caesareus, a, um – царский, кесарев, ая, ое"
+  },
+  {
+    "text": "calamus, i, m – перо (писчее)"
+  },
+  {
+    "text": "calcaneus, a, um – пяточный, ая, ое"
+  },
+  {
+    "text": "calcaneus, i, m – пяточная кость"
+  },
+  {
+    "text": "calcar, aris, n – шпора"
+  },
+  {
+    "text": "calcificatio, onis, f – кальцификация, обызвествление"
+  },
+  {
+    "text": "calculosus, a, um – калькулезный, относящийся к камням или вызванный камнями, ая, ое"
+  },
+  {
+    "text": "calculus, i, m – камень, камешек"
+  },
+  {
+    "text": "callosus, a, um – мозолистый, ая, ое"
+  },
+  {
+    "text": "calor, oris, m – жар; повышенная температура тела"
+  },
+  {
+    "text": "calvaria, ae, f – крыша черепа"
+  },
+  {
+    "text": "calx, calcis, f – пята, пятка"
+  },
+  {
+    "text": "calyx, icis, m – чашка, чашечка"
+  },
+  {
+    "text": "camera, ae, f – камера"
+  },
+  {
+    "text": "camphora, ae, f – камфора"
+  },
+  {
+    "text": "canaliculus, i, m – каналец"
+  },
+  {
+    "text": "canalis, is, m – канал"
+  },
+  {
+    "text": "cancer, cri, m – канцер, рак (злокачественная опухоль)"
+  },
+  {
+    "text": "candidus, a, um – белоснежный, ая, ое"
+  },
+  {
+    "text": "caninus, a, um – собачий, клыковый (зуб); dens caninus – клык, ая, ое"
+  },
+  {
+    "text": "canis, is, m, f – собака"
+  },
+  {
+    "text": "cantus, us, m – пение, песня"
+  },
+  {
+    "text": "capillaris, e – капиллярный, ая, ое"
+  },
+  {
+    "text": "capio, ĕre, III – брать, набирать"
+  },
+  {
+    "text": "capitatus, a, um – головчатый, ая, ое"
+  },
+  {
+    "text": "capitulum, i, n – головка (humeri)"
+  },
+  {
+    "text": "capsula, ae, f – капсула (анат.), оболочка, капсула (лек. форма)"
+  },
+  {
+    "text": "caput, itis, n – голова, головка"
+  },
+  {
+    "text": "carbo, onis, m – уголь"
+  },
+  {
+    "text": "carbonas, atis, m – карбонат"
+  },
+  {
+    "text": "carcinoma, atis, n – раковая опухоль, рак (из эпителия), карцинома"
+  },
+  {
+    "text": "carcinomatosus, a, um – карциноматозный, раковый, ая, ое"
+  },
+  {
+    "text": "cardiacus, a, um – сердечный, ая, ое"
+  },
+  {
+    "text": "cardinalis, e – главный, основной, кардинальный, ая, ое"
+  },
+  {
+    "text": "cardiovalenum, i, n – кардиовален"
+  },
+  {
+    "text": "caries, ei, f – кариес, костоеда"
+  },
+  {
+    "text": "caritas, atis, f – милость, любовь"
+  },
+  {
+    "text": "caroticus, a, um – сонный, ая, ое"
+  },
+  {
+    "text": "carotis, tidis, f – сонная артерия"
+  },
+  {
+    "text": "carpeus, a, um – запястный, ая, ое"
+  },
+  {
+    "text": "carpus, i, m – запястье"
+  },
+  {
+    "text": "cartilagineus, a, um – хрящевой, ая, ое"
+  },
+  {
+    "text": "cartilago, inis, f – хрящ"
+  },
+  {
+    "text": "casus, us, m – случай; падеж"
+  },
+  {
+    "text": "cataracta, ae, f – катаракта"
+  },
+  {
+    "text": "catarhalis, e – катаральный, ая, ое"
+  },
+  {
+    "text": "cathedra, ae, f – кресло, кафедра (стол преподавателя)"
+  },
+  {
+    "text": "causa, ae, f – причина, повод; Abl. causa – по причине, для, ради, из-за"
+  },
+  {
+    "text": "causalis, e – причинный, ая, ое"
+  },
+  {
+    "text": "caute – осторожно"
+  },
+  {
+    "text": "cavea, ae, f – клетка; cavea thoracis – грудная клетка"
+  },
+  {
+    "text": "caveo, ēre, II – остерегаться"
+  },
+  {
+    "text": "caverna, ae, f – пещера, каверна (полость)"
+  },
+  {
+    "text": "cavernosus, a, um – пещеристый, ая, ое"
+  },
+  {
+    "text": "cavitas, atis, f – полость (используется сейчас)"
+  },
+  {
+    "text": "cavum, i, n – полость (использовалось ранее)"
+  },
+  {
+    "text": "cavus, a, um – полый, ая, ое"
+  },
+  {
+    "text": "celer, eris, ere – быстрый, ая, ое"
+  },
+  {
+    "text": "celeriter – быстро"
+  },
+  {
+    "text": "cellula, ae, f – ячейка; клетка"
+  },
+  {
+    "text": "cellularis, e – клеточный, ая, ое"
+  },
+  {
+    "text": "cementum, i, n – цемент (зубной)"
+  },
+  {
+    "text": "census, us, m – оценка, цена"
+  },
+  {
+    "text": "centralis, e – центральный, ая, ое"
+  },
+  {
+    "text": "ceratus, a, um – вощеный, ая, ое"
+  },
+  {
+    "text": "cerebellaris, e – мозжечковый, ая, ое"
+  },
+  {
+    "text": "cerebellum, i, n – мозжечок"
+  },
+  {
+    "text": "cerebralis, e – мозговой, церебральный, ая, ое"
+  },
+  {
+    "text": "cerebrospinalis, e – спинномозговой, ая, ое"
+  },
+  {
+    "text": "cerebrum, i, n – большой мозг"
+  },
+  {
+    "text": "cerno, ĕre, III – различать, судить о чем-либо"
+  },
+  {
+    "text": "certus, a, um – верный, преданный, определенный, точный, ая, ое"
+  },
+  {
+    "text": "cervicalis, e – шейный, ая, ое"
+  },
+  {
+    "text": "cervicobrachialis, e – шейно-плечевой, ая, ое"
+  },
+  {
+    "text": "cervix, icis, f – шея; шейка (зуба, матки, пузыря)"
+  },
+  {
+    "text": "chamomilla, ae, f – ромашка"
+  },
+  {
+    "text": "chiasma, atis, n – перекрест"
+  },
+  {
+    "text": "chininum, i, n – хинин"
+  },
+  {
+    "text": "chinosolum, i, n – хинозол"
+  },
+  {
+    "text": "chirurgia, ae, f – хирургия"
+  },
+  {
+    "text": "chloridum, i, n – хлорид"
+  },
+  {
+    "text": "chloroformium, i, n – хлороформ"
+  },
+  {
+    "text": "chlorophylliptum, i, n – хлорофиллипт"
+  },
+  {
+    "text": "choanae, arum, f – хоаны (отверстия носовые)"
+  },
+  {
+    "text": "chole, es, f – желчь"
+  },
+  {
+    "text": "choledochus, a, um – желчный (общий желчный проток), ая, ое"
+  },
+  {
+    "text": "chondrocytus, i, m – хондроцит"
+  },
+  {
+    "text": "chorda, ae, f – хорда, струна"
+  },
+  {
+    "text": "chorioideus, a, um – сосудистый, ворсинчатый, ая, ое"
+  },
+  {
+    "text": "chorion, i, n – хорион"
+  },
+  {
+    "text": "chronicus, a, um – хронический, ая, ое"
+  },
+  {
+    "text": "cibus, i, m – еда, пища"
+  },
+  {
+    "text": "cicatrix, icis, f – рубец"
+  },
+  {
+    "text": "ciliaris, e – ресничный, ая, ое"
+  },
+  {
+    "text": "cinereus, a, um – серый, ая, ое"
+  },
+  {
+    "text": "cingo, ĕre, III – опоясывать"
+  },
+  {
+    "text": "cingulum, i, n – пояс"
+  },
+  {
+    "text": "circularis, e – круговой, циркулярный, ая, ое"
+  },
+  {
+    "text": "circulus, i, m – круг"
+  },
+  {
+    "text": "circumflexus, a, um – огибающий, ая, ое"
+  },
+  {
+    "text": "cirrhosis, is, f – цирроз"
+  },
+  {
+    "text": "cisterna, ae, f – цистерна (водоем)"
+  },
+  {
+    "text": "citissime – срочно, очень быстро"
+  },
+  {
+    "text": "cito – быстро"
+  },
+  {
+    "text": "citras, atis, m – цитрат"
+  },
+  {
+    "text": "civitas, atis, f – общество, государство, город"
+  },
+  {
+    "text": "claudicatio, onis, f – хромота"
+  },
+  {
+    "text": "clausus, a, um – закрытый, ая, ое"
+  },
+  {
+    "text": "clavicula, ae, f – ключица"
+  },
+  {
+    "text": "clavicularis, e – ключичный, ая, ое"
+  },
+  {
+    "text": "clitoris, idis, f – клитор"
+  },
+  {
+    "text": "coagulatio, onis, f – свертывание, коагуляция"
+  },
+  {
+    "text": "coccygeus, a, um – копчиковый, ая, ое"
+  },
+  {
+    "text": "coccyx, ygis, m – копчик"
+  },
+  {
+    "text": "cochlea, ae, f – улитка (внутреннего уха)"
+  },
+  {
+    "text": "cochlearis, aris, e – улиточный, относящийся к улитке, ая, ое"
+  },
+  {
+    "text": "codeinum, i, n – кодеин"
+  },
+  {
+    "text": "coffeinum, i, n – кофеин"
+  },
+  {
+    "text": "coffein-natrii benzoas, atis – кофеин-бензоат натрия"
+  },
+  {
+    "text": "cogito, āre, I – мыслить"
+  },
+  {
+    "text": "cognitio, onis, f – познание"
+  },
+  {
+    "text": "cognosco, ĕre, III – познавать, узнавать"
+  },
+  {
+    "text": "cogo, ĕre, III – принуждать, заставлять"
+  },
+  {
+    "text": "collapsus, us, m – коллапс (острая сосудистая недостаточность)"
+  },
+  {
+    "text": "collargolum, i, n – колларгол"
+  },
+  {
+    "text": "collateralis, e – коллатеральный, боковой, ая, ое"
+  },
+  {
+    "text": "collega, ae, m, f – коллега, товарищ по работе"
+  },
+  {
+    "text": "collegium, i, n – совет, товарищество"
+  },
+  {
+    "text": "colloquium, i, n – коллоквиум, собеседование"
+  },
+  {
+    "text": "collum, i, n – шея, шейка"
+  },
+  {
+    "text": "colon, i, n – ободочная кишка"
+  },
+  {
+    "text": "color, oris, m – цвет, окраска"
+  },
+  {
+    "text": "columna, ae, f – столб"
+  },
+  {
+    "text": "coma, atis, n – кома (полная потеря сознания)"
+  },
+  {
+    "text": "comitans, antis – сопутствующий, сопровождающий, ая, ое"
+  },
+  {
+    "text": "commissura, ae, f – спайка"
+  },
+  {
+    "text": "commotio, onis, f – сотрясение"
+  },
+  {
+    "text": "communicans, antis – соединительный, соединяющий, ая, ое"
+  },
+  {
+    "text": "communico, āre, I – связывать, соединять"
+  },
+  {
+    "text": "communis, e – общий, ая, ое"
+  },
+  {
+    "text": "commuto, āre, I – менять, изменять"
+  },
+  {
+    "text": "compactus, a, um – плотный, ая, ое"
+  },
+  {
+    "text": "completus, a, um – полный, ая, ое"
+  },
+  {
+    "text": "complexus, us, m – связь, сочетание"
+  },
+  {
+    "text": "complicatus, a, um – осложненный, ая, ое"
+  },
+  {
+    "text": "compono, ĕre, III – складывать, соединять; составлять, образовывать"
+  },
+  {
+    "text": "compositio, onis, f – состав"
+  },
+  {
+    "text": "compositus, a, um – сложный, ая, ое"
+  },
+  {
+    "text": "concentratus, a, um – концентрированный, ая, ое"
+  },
+  {
+    "text": "concha, ae, f – раковина"
+  },
+  {
+    "text": "concisus, a, um – резаный, ая, ое"
+  },
+  {
+    "text": "concordia, ae, f – единодушие, согласие"
+  },
+  {
+    "text": "concrementum, i, n – конкремент, камень (плотное образование в полостях или тканях тела)"
+  },
+  {
+    "text": "concretus, a, um – густой, уплотненный; предметный, вещественный, конкретный, ая, ое"
+  },
+  {
+    "text": "conditio, onis, f – условие"
+  },
+  {
+    "text": "condylaris, e – мыщелковый, ая, ое"
+  },
+  {
+    "text": "condylus, i, m – мыщелок"
+  },
+  {
+    "text": "confirmo, āre, I – подтверждать"
+  },
+  {
+    "text": "confluens, entis – сливающийся, ая, ое"
+  },
+  {
+    "text": "confluo, ĕre, III – сливаться"
+  },
+  {
+    "text": "congenitus, a, um – врожденный, ая, ое"
+  },
+  {
+    "text": "congestivus, a, um – застойный, ая, ое"
+  },
+  {
+    "text": "conicus, a, um – конусовидный, конический, ая, ое"
+  },
+  {
+    "text": "conjunctiva, ae, f – конъюнктива (соединительная оболочка глаза)"
+  },
+  {
+    "text": "conjunctivus, a, um – соединительный, соединительнотканный, ая, ое"
+  },
+  {
+    "text": "conjungo, ĕre, III – соединять"
+  },
+  {
+    "text": "consensio, onis, f – согласие, единомыслие"
+  },
+  {
+    "text": "consilium, i, n – совещание, совет"
+  },
+  {
+    "text": "consolatio, onis, f – утешение; слово утешения"
+  },
+  {
+    "text": "conspergo, ĕre, III – обсыпать"
+  },
+  {
+    "text": "constituens, entis – формирующий, формообразующий, ая, ое"
+  },
+  {
+    "text": "constituo, ĕre, III – формировать; устанавливать"
+  },
+  {
+    "text": "consto, āre, I – состоять"
+  },
+  {
+    "text": "constrictio, onis, f – сокращение, сжатие"
+  },
+  {
+    "text": "constrictor, oris, m – констриктор, сжиматель (мышца)"
+  },
+  {
+    "text": "constructio, onis, f – составление, построение"
+  },
+  {
+    "text": "consuetudo, inis, f – привычка"
+  },
+  {
+    "text": "consumo, ĕre, III – расходовать; в Pass. исчезать, погибать"
+  },
+  {
+    "text": "contactus, a, um – контактный, ая, ое"
+  },
+  {
+    "text": "contineo, ēre, II – содержать"
+  },
+  {
+    "text": "contortus, a, um – извитой, свернутый, ая, ое"
+  },
+  {
+    "text": "contra – против, вопреки"
+  },
+  {
+    "text": "contractio, onis, f – сокращение"
+  },
+  {
+    "text": "contractura, ae, f – контрактура, сведение (непроизвольное спастическое сокращение мышц)"
+  },
+  {
+    "text": "contraho, ĕre, III – стягивать, сокращать, сводить"
+  },
+  {
+    "text": "contrarius, a, um – противоположный, ая, ое"
+  },
+  {
+    "text": "contusio, onis, f – ушиб, контузия"
+  },
+  {
+    "text": "convalesco, ĕre, III – выздоравливать"
+  },
+  {
+    "text": "convallaria, ae, f – ландыш"
+  },
+  {
+    "text": "convulsivus, a, um – конвульсивный, судорожный, ая, ое"
+  },
+  {
+    "text": "coquo, ĕre, III – варить"
+  },
+  {
+    "text": "cor, cordis, n – сердце"
+  },
+  {
+    "text": "corazolum, i, n – коразол"
+  },
+  {
+    "text": "cornea, ae, f – роговица"
+  },
+  {
+    "text": "corneus, a, um – роговой, ая, ое"
+  },
+  {
+    "text": "cornu, us, n – рог, рожок"
+  },
+  {
+    "text": "corona, ae, f – венец, корона; коронка"
+  },
+  {
+    "text": "coronalis, e – венечный; относящийся к коронке зуба, ая, ое"
+  },
+  {
+    "text": "coronarius, a, um – венечный, коронарный, ая, ое"
+  },
+  {
+    "text": "corono, āre, I – венчать"
+  },
+  {
+    "text": "corpus, oris, n – тело, собрание"
+  },
+  {
+    "text": "corpusculum, i, n – тельце"
+  },
+  {
+    "text": "corrigens, entis – исправляющий, ая, ое"
+  },
+  {
+    "text": "corrigo, ĕre, III – исправлять"
+  },
+  {
+    "text": "corrugator, oris, m – сморщивающая (мышца)"
+  },
+  {
+    "text": "cortex, icis, m – кора, корковое вещество"
+  },
+  {
+    "text": "corticalis, e – корковый, ая, ое"
+  },
+  {
+    "text": "costa, ae, f – ребро"
+  },
+  {
+    "text": "costalis, e – реберный, ая, ое"
+  },
+  {
+    "text": "coxa, ae, f – верхняя часть бедра, тазобедренная область"
+  },
+  {
+    "text": "cranialis, e – черепной, краниальный, ая, ое"
+  },
+  {
+    "text": "cranium, i, n – череп"
+  },
+  {
+    "text": "crassus, a, um – толстый, ая, ое"
+  },
+  {
+    "text": "crataegus, i, f – боярышник"
+  },
+  {
+    "text": "creber, bra, brum – частый, ая, ое"
+  },
+  {
+    "text": "cremaster, eris, m – мышца, поднимающая яичко"
+  },
+  {
+    "text": "creo, āre, I – творить"
+  },
+  {
+    "text": "crescentia, ae, f – рост, увеличение"
+  },
+  {
+    "text": "cresco, ĕre, III – расти"
+  },
+  {
+    "text": "cribrosus, a, um – решетчатый, ая, ое"
+  },
+  {
+    "text": "cribrum, i, n – решето"
+  },
+  {
+    "text": "cricooesophageus, a, um – перстнепищеводный, ая, ое"
+  },
+  {
+    "text": "cricoideus, a, um – перстневидный, ая, ое"
+  },
+  {
+    "text": "crista, ae, f – гребень, гребешок"
+  },
+  {
+    "text": "crouposus, a, um – крупозный, ая, ое"
+  },
+  {
+    "text": "cruciatus, a, um – крестообразный, ая, ое"
+  },
+  {
+    "text": "cruciformis, e – крестообразный, ая, ое"
+  },
+  {
+    "text": "crus, cruris, n – голень; ножка"
+  },
+  {
+    "text": "crux, crucis, f – крест"
+  },
+  {
+    "text": "crystallisatus, a, um – кристаллический, ая, ое"
+  },
+  {
+    "text": "cuboideus, a, um – кубовидный, ая, ое"
+  },
+  {
+    "text": "culex, icis, m – кулекс (вид комара)"
+  },
+  {
+    "text": "culmen, inis, n – вершина"
+  },
+  {
+    "text": "culpa, ae, f – вина"
+  },
+  {
+    "text": "cum (с Abl.) – вместе с, когда"
+  },
+  {
+    "text": "cumulo, āre, I – складывать, достигать"
+  },
+  {
+    "text": "cuneiformis, e – клиновидный, ая, ое"
+  },
+  {
+    "text": "cura, ae, f – забота"
+  },
+  {
+    "text": "curatio, onis, f – лечение; забота, попечение"
+  },
+  {
+    "text": "curo, āre, I – лечить, заботиться"
+  },
+  {
+    "text": "curriculum, i, n – бег"
+  },
+  {
+    "text": "cursus, us, m – путь, курс, прохождение"
+  },
+  {
+    "text": "curvatura, ae, f – кривизна"
+  },
+  {
+    "text": "cuspis, idis, f – створка; острие"
+  },
+  {
+    "text": "cutaneus, a, um – кожный, ая, ое"
+  },
+  {
+    "text": "cuticula, ae, f – кутикула, кожица"
+  },
+  {
+    "text": "cutis, is, f – кожа"
+  },
+  {
+    "text": "cyanidum, i, n – цианид"
+  },
+  {
+    "text": "cysta, ae, f – киста"
+  },
+  {
+    "text": "cysticus, a, um – пузырный; относящийся к мочевому или желчному пузырю, ая, ое"
+  },
+  {
+    "text": "cystosus, a, um – кистозный, ая, ое"
+  },
+  {
+    "text": "damno, āre, I – осуждать"
+  },
+  {
+    "text": "de (с Abl.) – о, об"
+  },
+  {
+    "text": "debeo, ēre, II – быть должным, быть обязанным"
+  },
+  {
+    "text": "debilis, e – слабый, ая, ое"
+  },
+  {
+    "text": "debilito, āre, I – ослаблять, расслаблять"
+  },
+  {
+    "text": "decem – десять"
+  },
+  {
+    "text": "deciduus, a, um – отпадающий, молочный (о зубе), ая, ое"
+  },
+  {
+    "text": "decimus, a, um – десятый, ая, ое"
+  },
+  {
+    "text": "declive, is, n – скат"
+  },
+  {
+    "text": "decoctum, i, n – отвар"
+  },
+  {
+    "text": "decubitus, us, m – пролежень"
+  },
+  {
+    "text": "decussatio, onis, f – перекрест (в нервной системе)"
+  },
+  {
+    "text": "dedico, āre, I – почитать, посвящать"
+  },
+  {
+    "text": "deformans, antis – деформирующий, обезображивающий"
+  },
+  {
+    "text": "deformo, āre, I – обезобразить, изуродовать"
+  },
+  {
+    "text": "delirium, i, n – делирий, болезненный бред, безумие"
+  },
+  {
+    "text": "deltoideus, a, um – дельтовидный (подобный греч. ∆), ая, ое"
+  },
+  {
+    "text": "demonstratio, onis, f – демонстрация, показ"
+  },
+  {
+    "text": "denique – наконец, только"
+  },
+  {
+    "text": "dens, ntis, m – зуб"
+  },
+  {
+    "text": "dentalis, e – зубной, ая, ое"
+  },
+  {
+    "text": "dentinum, i, n – дентин"
+  },
+  {
+    "text": "depressor, oris, m – опускатель, опускающая мышца"
+  },
+  {
+    "text": "depressivus, a, um – депрессивный, угнетающий, угнетенный, подавленный, ая, ое"
+  },
+  {
+    "text": "depuratus, a, um – очищенный, ая, ое"
+  },
+  {
+    "text": "descendens, entis – нисходящий, спускающийся"
+  },
+  {
+    "text": "descendo, ĕre, III – нисходить, спускаться"
+  },
+  {
+    "text": "desideratus, a, um – желанный, заветный, ая, ое"
+  },
+  {
+    "text": "desiderium, i, n – желание, пожелание"
+  },
+  {
+    "text": "desino, ĕre, III – прекращать, заканчиваться"
+  },
+  {
+    "text": "destillatus, a, um – дистиллированный, ая, ое"
+  },
+  {
+    "text": "desum, deesse – нехватать, недоставать"
+  },
+  {
+    "text": "deus, i, m – бог"
+  },
+  {
+    "text": "dexter, tra, trum – правый, ая, ое"
+  },
+  {
+    "text": "diabetes, ae, m – диабет"
+  },
+  {
+    "text": "diabeticus, a, um – диабетический, ая, ое"
+  },
+  {
+    "text": "diabolus, i, m – дьявол"
+  },
+  {
+    "text": "diagnosis, is, f – диагноз"
+  },
+  {
+    "text": "diaethylstilboestrolum, i, n – диэтилстильбэстрол"
+  },
+  {
+    "text": "diameter, tri, f – диаметр, поперечник"
+  },
+  {
+    "text": "diaphragma, atis, n – диафрагма, грудобрюшная преграда"
+  },
+  {
+    "text": "diarrhoea, ae, f – диарея, понос"
+  },
+  {
+    "text": "diastema, atis, n – диастема, промежуток"
+  },
+  {
+    "text": "dibazolum, i, n – дибазол"
+  },
+  {
+    "text": "dicendum – должно сказать"
+  },
+  {
+    "text": "dichlothiazidum, i, n – дихлотиазид"
+  },
+  {
+    "text": "dico, āre, I – посвящать"
+  },
+  {
+    "text": "dictum, i, n – выражение, изречение"
+  },
+  {
+    "text": "dies, ei, m, f – день"
+  },
+  {
+    "text": "differens, entis – различающийся"
+  },
+  {
+    "text": "differentia, ae, f – различие"
+  },
+  {
+    "text": "difero, differre – различаться"
+  },
+  {
+    "text": "difficile – с трудом"
+  },
+  {
+    "text": "difficilis, e – трудный, ая, ое"
+  },
+  {
+    "text": "diffundo, ĕre, III – разливать, рассеивать"
+  },
+  {
+    "text": "diffusus, a, um – диффузный, разлитой, ая, ое"
+  },
+  {
+    "text": "digastricus, a, um – двубрюшный, ая, ое"
+  },
+  {
+    "text": "digestorius, a, um – пищеварительный, ая, ое"
+  },
+  {
+    "text": "digitalis, e – пальцевой, ая, ое"
+  },
+  {
+    "text": "digitalis, is, f – наперстянка"
+  },
+  {
+    "text": "digitatus, a, um – пальцевидный, ая, ое"
+  },
+  {
+    "text": "digitus, i, m – палец"
+  },
+  {
+    "text": "dignosco, ĕre, III – распознавать, ставить диагноз"
+  },
+  {
+    "text": "dignus, a, um – достойный, ая, ое"
+  },
+  {
+    "text": "dilatatio, onis, f – дилатация, расширение"
+  },
+  {
+    "text": "dilatator, oris, m – дилататор, расширяющий (мышца)"
+  },
+  {
+    "text": "diluo, ĕre, III – разводить, разбавлять"
+  },
+  {
+    "text": "dilutus, a, um – разведенный, ая, ое"
+  },
+  {
+    "text": "diploe, es, f – диплоэ (губчатое вещество плоских костей черепа)"
+  },
+  {
+    "text": "dirigo, ĕre, III – направлять"
+  },
+  {
+    "text": "disciplina, ae, f – учение, наука"
+  },
+  {
+    "text": "discipulus, i, m – ученик"
+  },
+  {
+    "text": "disco, ĕre, III – учиться, изучать"
+  },
+  {
+    "text": "discus, i, m – диск"
+  },
+  {
+    "text": "disseminatus, a, um – диссеминированный, рассеянный, ая, ое"
+  },
+  {
+    "text": "distalis, e – дистальный (более удаленный от центра, периферический), ая, ое"
+  },
+  {
+    "text": "distinguo, ĕre, III – различать"
+  },
+  {
+    "text": "diu – долго"
+  },
+  {
+    "text": "diverticulum, i, n – выпячивание, дивертикул"
+  },
+  {
+    "text": "divido, ĕre, III – разделять"
+  },
+  {
+    "text": "divitiae, arum, f – богатство"
+  },
+  {
+    "text": "do, āre, I – давать, выдавать"
+  },
+  {
+    "text": "doceo, ēre, II – учить, обучать"
+  },
+  {
+    "text": "doctor, oris, m – учитель, наставник, преподаватель"
+  },
+  {
+    "text": "doctrina, ae, f – учение"
+  },
+  {
+    "text": "dolens, entis – болезненный, болевой"
+  },
+  {
+    "text": "doleo, ēre, II – болеть"
+  },
+  {
+    "text": "dolor, oris, m – боль"
+  },
+  {
+    "text": "domesticus, a, um – домашний, ая, ое"
+  },
+  {
+    "text": "donum, i, n – дар, подарок"
+  },
+  {
+    "text": "dorsalis, e – дорсальный (спинной, тыльный), ая, ое"
+  },
+  {
+    "text": "dorsum, i, n – спина, спинка, тыл (тыльная сторона)"
+  },
+  {
+    "text": "dosis, is, f – доза"
+  },
+  {
+    "text": "dragee (нескл.) – драже"
+  },
+  {
+    "text": "dubium, i, n – сомнение"
+  },
+  {
+    "text": "duco, ĕre, III – вести"
+  },
+  {
+    "text": "ductulus, i, m – проточек"
+  },
+  {
+    "text": "ductus, us, m – проток"
+  },
+  {
+    "text": "dulcis, e – сладкий, ая, ое"
+  },
+  {
+    "text": "dum – пока"
+  },
+  {
+    "text": "duo, duae, duo – два"
+  },
+  {
+    "text": "duodecim – двенадцать"
+  },
+  {
+    "text": "duodecimus, a, um – двенадцатый, ая, ое"
+  },
+  {
+    "text": "duodenojejunalis, e – двенадцатиперстно-тощекишечный, ая, ое"
+  },
+  {
+    "text": "duodenum, i, n – двенадцатиперстная кишка"
+  },
+  {
+    "text": "duplex, icis – двойной"
+  },
+  {
+    "text": "dura mater – твердая мозговая оболочка"
+  },
+  {
+    "text": "durus, a, um – твердый, плотный, ая, ое"
+  },
+  {
+    "text": "dyspnoe, es, f – диспноэ, одышка"
+  },
+  {
+    "text": "eczema, atis, n – экзема"
+  },
+  {
+    "text": "edo, ĕre, III – есть, питаться"
+  },
+  {
+    "text": "effectus, us, m – эффект, действие"
+  },
+  {
+    "text": "efferens, entis – эфферентный, выносящий"
+  },
+  {
+    "text": "effero, efferre – выносить"
+  },
+  {
+    "text": "efficio, ĕre, III – вызывать"
+  },
+  {
+    "text": "ego – я"
+  },
+  {
+    "text": "eloquens, entis – красноречивый"
+  },
+  {
+    "text": "eloquentia, ae, f – красноречие, дар слова"
+  },
+  {
+    "text": "embryo, onis, m – эмбрион (плод, зародыш)"
+  },
+  {
+    "text": "eminens, entis – выдающийся, выступающий"
+  },
+  {
+    "text": "eminentia, ae, f – возвышенность, возвышение"
+  },
+  {
+    "text": "emphysema, atis, n – эмфизема (увеличение количества воздуха в органах, содержащих воздух)"
+  },
+  {
+    "text": "emplastrum, i, n – пластырь"
+  },
+  {
+    "text": "emulsum, i, n – эмульсия"
+  },
+  {
+    "text": "enamelum, i, n – эмаль"
+  },
+  {
+    "text": "encephalon, i, n – головной мозг"
+  },
+  {
+    "text": "endemicus, a, um – эндемический, местный"
+  },
+  {
+    "text": "enim – ибо, ведь"
+  },
+  {
+    "text": "epidemicus, a, um – эпидемический"
+  },
+  {
+    "text": "epigastricus, a, um – надчревный"
+  },
+  {
+    "text": "epigastrium, i, n – надчревье"
+  },
+  {
+    "text": "epiglottis, idis, f – надгортанник"
+  },
+  {
+    "text": "epilepticus, a, um – эпилептический, относящийся к эпилепсии"
+  },
+  {
+    "text": "epiphysialis, e – эпифизарный"
+  },
+  {
+    "text": "epiphysis, is, f – эпифиз"
+  },
+  {
+    "text": "epithelialis, e – эпителиальный"
+  },
+  {
+    "text": "epithelium, i, n – эпителий"
+  },
+  {
+    "text": "equator, oris, m – экватор"
+  },
+  {
+    "text": "erector, oris, m – выпрямитель (мышца)"
+  },
+  {
+    "text": "ergo – итак, следовательно"
+  },
+  {
+    "text": "erro, āre, I – заблуждаться, ошибаться"
+  },
+  {
+    "text": "error, oris, m – ошибка, заблуждение, погрешность"
+  },
+  {
+    "text": "eruditio, onis, f – образование, обучение, ученость"
+  },
+  {
+    "text": "eruptio, onis, f – высыпание, сыпь"
+  },
+  {
+    "text": "esse – см. sum, esse"
+  },
+  {
+    "text": "essentialis, e – существенный"
+  },
+  {
+    "text": "est – см. sum, esse"
+  },
+  {
+    "text": "et – и"
+  },
+  {
+    "text": "ethmoidalis, e – решетчатый"
+  },
+  {
+    "text": "etiam – также"
+  },
+  {
+    "text": "eucalyptus, i, f – эвкалипт"
+  },
+  {
+    "text": "Eustachius, a, um – Евстахиев (от имени анатома Бартоломео Евстахия)"
+  },
+  {
+    "text": "evacuo, āre, I – опорожнять"
+  },
+  {
+    "text": "e, ex (c Abl.) – из"
+  },
+  {
+    "text": "exceptio, onis, f – исключение"
+  },
+  {
+    "text": "excisio, onis, f – вырезание, удаление"
+  },
+  {
+    "text": "excretio, onis, f – выделение, экскреция"
+  },
+  {
+    "text": "exemplar, aris, n – образец, пример"
+  },
+  {
+    "text": "exemplum, i, n – пример"
+  },
+  {
+    "text": "exercitatio, onis, f – упражнение"
+  },
+  {
+    "text": "exitus, us, m – исход"
+  },
+  {
+    "text": "exophthalmus, i, m – экзофтальм, пучеглазие"
+  },
+  {
+    "text": "experimentum, i, n – эксперимент, научный опыт"
+  },
+  {
+    "text": "exsisto, ĕre, III – являться, происходить"
+  },
+  {
+    "text": "exstirpatio, onis, f – экстирпация, искоренение"
+  },
+  {
+    "text": "extensio, onis, f – разгибание, растягивание"
+  },
+  {
+    "text": "extensor, oris, m – разгибатель (мышца)"
+  },
+  {
+    "text": "extensus, a, um – вытянутый"
+  },
+  {
+    "text": "externus, a, um – наружный"
+  },
+  {
+    "text": "extractio, onis, f – извлечение"
+  },
+  {
+    "text": "extractum, i, n – экстракт"
+  },
+  {
+    "text": "extraho, ĕre, III – извлекать"
+  },
+  {
+    "text": "extraordinarius, a, um – чрезвычайный, необыкновенный"
+  },
+  {
+    "text": "extrasystole, es, f – экстрасистола"
+  },
+  {
+    "text": "extrauterinus, a, um – внематочный"
+  },
+  {
+    "text": "extremitas, atis, f – конец"
+  },
+  {
+    "text": "exulcerans, antis – изъязвляющийся"
+  },
+  {
+    "text": "exulceratus, a, um – изъязвленный, покрытый язвами"
+  },
+  {
+    "text": "exulcero, āre, I – изъязвлять"
+  },
+  {
+    "text": "fabula, ae, f – басня, сказка"
+  },
+  {
+    "text": "fac – повелит., накл. ед. ч. от facio"
+  },
+  {
+    "text": "facialis, e – лицевой"
+  },
+  {
+    "text": "facies, ei, f – лицо; поверхность"
+  },
+  {
+    "text": "facile – легко"
+  },
+  {
+    "text": "facio, ĕre, III – делать, действовать"
+  },
+  {
+    "text": "factitius, a, um – искусственный"
+  },
+  {
+    "text": "factum, i, n – сделанное, деяние, действие"
+  },
+  {
+    "text": "factus, a, um – случившийся, происшедший"
+  },
+  {
+    "text": "fallo, ĕre, III – обманывать"
+  },
+  {
+    "text": "falsus, a, um – ложный; фальшивый"
+  },
+  {
+    "text": "falx, falcis, f – серп, коса"
+  },
+  {
+    "text": "fames, is, f – голод"
+  },
+  {
+    "text": "familia, ae, f – семья, семейство, дом; часть рода, носящая одно фамильное имя"
+  },
+  {
+    "text": "farfara, ae, f – мать-и-мачеха"
+  },
+  {
+    "text": "fascia, ae, f – фасция"
+  },
+  {
+    "text": "fasciculus, i, m – пучок"
+  },
+  {
+    "text": "fauces, ium, f pl. – зев"
+  },
+  {
+    "text": "febrilis, e – лихорадочный"
+  },
+  {
+    "text": "febris, is, f – лихорадка"
+  },
+  {
+    "text": "fel, fellis, n – желчь"
+  },
+  {
+    "text": "felicitas, atis, f – счастье"
+  },
+  {
+    "text": "felleus, a, um – жёлчный (устар.)"
+  },
+  {
+    "text": "femina, ae, f – женщина"
+  },
+  {
+    "text": "femininus, a, um – женский"
+  },
+  {
+    "text": "femur, oris, n – бедренная кость, бедро"
+  },
+  {
+    "text": "fenestratus, a, um – окончатый"
+  },
+  {
+    "text": "festino, āre, I – спешить"
+  },
+  {
+    "text": "fetus, us, m / foetus, i, m – плод (утробный, от 9-й недели до рождения)"
+  },
+  {
+    "text": "fibra, ae, f – волокно"
+  },
+  {
+    "text": "fibrosus, a, um – фиброзный, волокнистый"
+  },
+  {
+    "text": "fibula, ae, f – малоберцовая кость"
+  },
+  {
+    "text": "fibularis, e – малоберцовый"
+  },
+  {
+    "text": "fido, ĕre, III – доверять"
+  },
+  {
+    "text": "fidus, a, um – верный, надежный"
+  },
+  {
+    "text": "filia, ae, f – дочь"
+  },
+  {
+    "text": "filiformis, e – нитевидный"
+  },
+  {
+    "text": "filum, i, n – нить, нитка"
+  },
+  {
+    "text": "finio, īre, IV – оканчивать, заканчивать, кончать"
+  },
+  {
+    "text": "finis, is, m – предел, граница, конец, цель"
+  },
+  {
+    "text": "fio, fiĕri – (неправильный глагол) образовываться, получаться; возникать"
+  },
+  {
+    "text": "firmo, āre, I – укреплять"
+  },
+  {
+    "text": "firmus, a, um – крепкий"
+  },
+  {
+    "text": "fissura, ae, f – щель"
+  },
+  {
+    "text": "fit – 3-е лицо ед. ч. наст. вр. от fio"
+  },
+  {
+    "text": "flavus, a, um – желтый"
+  },
+  {
+    "text": "flexio, ōnis, f – сгибание"
+  },
+  {
+    "text": "flexor, ōris, m – сгибатель (мышца)"
+  },
+  {
+    "text": "flexura, ae, f – изгиб"
+  },
+  {
+    "text": "flos, floris, m – цветок, цветущее состояние"
+  },
+  {
+    "text": "fluctuans, antis – качающийся"
+  },
+  {
+    "text": "fluidus, a, um – жидкий"
+  },
+  {
+    "text": "flumen, inis, n – река, поток, течение"
+  },
+  {
+    "text": "foetor, ōris, m – дурной запах, зловоние"
+  },
+  {
+    "text": "folium, i, n – лист, листок"
+  },
+  {
+    "text": "folliculus, i, m – фолликул (мешочек)"
+  },
+  {
+    "text": "fonticulus, i, m – родничок"
+  },
+  {
+    "text": "foramen, inis, n – отверстие"
+  },
+  {
+    "text": "forma, ae, f – форма, вид"
+  },
+  {
+    "text": "formo, āre, I – образовывать"
+  },
+  {
+    "text": "formosus, a, um – красивый"
+  },
+  {
+    "text": "fornix, icis, m – свод"
+  },
+  {
+    "text": "fortus, a, um – сильный"
+  },
+  {
+    "text": "fossa, ae, f – ямка"
+  },
+  {
+    "text": "foveola, ae, f – ямочка"
+  },
+  {
+    "text": "fractura, ae, f – перелом"
+  },
+  {
+    "text": "frangula, ae, f – крушина"
+  },
+  {
+    "text": "frenulum, i, n – уздечка"
+  },
+  {
+    "text": "frequens, entis – частый, учащенный"
+  },
+  {
+    "text": "frons, frontis, f – лоб"
+  },
+  {
+    "text": "frontalis, e – лобный; фронтальный"
+  },
+  {
+    "text": "fructuosus, a, um – плодотворный"
+  },
+  {
+    "text": "fructus, us, m – плод (раст.)"
+  },
+  {
+    "text": "frustra – напрасно, бесцельно"
+  },
+  {
+    "text": "fumus, i, m – дым"
+  },
+  {
+    "text": "functio, ōnis, f – действие, функция; исполнение, обязанность"
+  },
+  {
+    "text": "fundamentalis, e – основной"
+  },
+  {
+    "text": "fundus, i, m – дно"
+  },
+  {
+    "text": "fungiformis, e – грибовидный"
+  },
+  {
+    "text": "furiosus, a, um – яростный, безумный"
+  },
+  {
+    "text": "fusiformis, e – веретеновидный, веретенообразный"
+  },
+  {
+    "text": "galanthus, i, m – подснежник"
+  },
+  {
+    "text": "gallus, i, m – петух"
+  },
+  {
+    "text": "ganglion, i, n – ганглий (нервный узел)"
+  },
+  {
+    "text": "gaster, tris, f – желудок"
+  },
+  {
+    "text": "gastricus, a, um – желудочный"
+  },
+  {
+    "text": "gastroduodenalis, e – желудочно-двенадцатиперстнокишечный"
+  },
+  {
+    "text": "gaudeo, ērе, II – радоваться"
+  },
+  {
+    "text": "gaudium, i, n – радость"
+  },
+  {
+    "text": "generalis, e – общий; родовой"
+  },
+  {
+    "text": "geniohyoideus, a, um – подбородочно-подъязычный"
+  },
+  {
+    "text": "genitalis, e – половой, генитальный"
+  },
+  {
+    "text": "gens, gentis, f – племя, народность, народ"
+  },
+  {
+    "text": "genu, us, n – колено"
+  },
+  {
+    "text": "genus, ēris, n – род"
+  },
+  {
+    "text": "gigantocellularis, e – гигантоклеточный"
+  },
+  {
+    "text": "gigno, ĕre, III – рождать"
+  },
+  {
+    "text": "gingiva, ae, f – десна"
+  },
+  {
+    "text": "gingivalis, e – десневой"
+  },
+  {
+    "text": "gladium, i, n / gladius, i, m – меч"
+  },
+  {
+    "text": "glandula, ae, f – железа (анатомический термин)"
+  },
+  {
+    "text": "glans, glandis, f – головка (полового члена, клитора)"
+  },
+  {
+    "text": "glaucoma, ătis, n – глаукома"
+  },
+  {
+    "text": "globulus, i, m – шарик"
+  },
+  {
+    "text": "glomerulus, i, m – клубочек"
+  },
+  {
+    "text": "glomus, ēris, n – гломус, клубок"
+  },
+  {
+    "text": "gloria, ae, f – слава"
+  },
+  {
+    "text": "glossopharyngeus, a, um – языкоглоточный"
+  },
+  {
+    "text": "glottis, īdis, f – голосовая щель, собственно голосовой аппарат"
+  },
+  {
+    "text": "glucōnas, ātis, m – глюконат"
+  },
+  {
+    "text": "glucōsum, i, n – глюкоза"
+  },
+  {
+    "text": "gluteus, a, um – ягодичный"
+  },
+  {
+    "text": "glycerophosphas, ātis, m – глицерофосфат"
+  },
+  {
+    "text": "gracilis, e – изящный, стройный"
+  },
+  {
+    "text": "gradus, us, m – шаг"
+  },
+  {
+    "text": "gramma, ătis, n – грамм"
+  },
+  {
+    "text": "granulum, i, n – гранула (лек. форма)"
+  },
+  {
+    "text": "gratis – даром, бесплатно, безвозмездно"
+  },
+  {
+    "text": "gratus, a, um – приятный, милый, заслуживающий признательность"
+  },
+  {
+    "text": "gravida, ae, f – беременная"
+  },
+  {
+    "text": "graviditas, atis, f – беременность"
+  },
+  {
+    "text": "gravis, e – тяжелый"
+  },
+  {
+    "text": "grex, gregis, m – стадо, толпа"
+  },
+  {
+    "text": "grossus, a, um – крупный"
+  },
+  {
+    "text": "gutta, ae, f – капля"
+  },
+  {
+    "text": "gyrus, i, m – извилина"
+  },
+  {
+    "text": "habeo, ērе, II – иметь"
+  },
+  {
+    "text": "habitus, us, m – внешний вид, внешность, наружность"
+  },
+  {
+    "text": "hac – Abl. ед. ч. ж. р. от hic"
+  },
+  {
+    "text": "haec – см. hic"
+  },
+  {
+    "text": "haematoma, atis, n – гематома"
+  },
+  {
+    "text": "haemorrhagicus, a, um – геморрагический"
+  },
+  {
+    "text": "haereo, ērе, II – висеть, прилипать"
+  },
+  {
+    "text": "hallux, icis, m – большой (I) палец стопы"
+  },
+  {
+    "text": "hamatus, a, um – крючковидный"
+  },
+  {
+    "text": "hamulus, i, m – крючок (крючковидный отросток)"
+  },
+  {
+    "text": "haurio, īre, IV – черпать"
+  },
+  {
+    "text": "helianthus, i, m – подсолнечник"
+  },
+  {
+    "text": "helix, ĭcis, f – завиток (загнутый край ушной раковины)"
+  },
+  {
+    "text": "hemispherium, i, n – полушарие"
+  },
+  {
+    "text": "hepar, ătis, n – печень"
+  },
+  {
+    "text": "hepaticus, a, um – печеночный"
+  },
+  {
+    "text": "herba, ae, f – трава"
+  },
+  {
+    "text": "hernia, ae, f – грыжа"
+  },
+  {
+    "text": "hernialis, e – грыжевой"
+  },
+  {
+    "text": "heroicus, a, um – сильнодействующий"
+  },
+  {
+    "text": "herpes, ĕtis, m – герпес, пузырьковый лишай"
+  },
+  {
+    "text": "herpes zoster, herpĕtis zosteris – опоясывающий лишай"
+  },
   {
     "text": "hiatus, us, m – щель, расщелина, отверстие (зияние)"
   },
