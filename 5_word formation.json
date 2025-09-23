@@ -1,0 +1,452 @@
+[
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: gastr- (желудок), -algia (боль)",
+    "answer1": "gastralgia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: neur- (нерв), -itis (воспаление)",
+    "answer1": "neuritis",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: hepat- (печень), -pathia (болезнь)",
+    "answer1": "hepatopathia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: col- (ободочная кишка), -ectomia (удаление)",
+    "answer1": "colectomia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: hyper- (повышенный), glykaemia - (глюкоза в крови)",
+    "answer1": "hyperglykaemia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: cardi- (сердце), -megalia (увеличение)",
+    "answer1": "cardiomegalia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: oste- (кость), -oma (опухоль)",
+    "answer1": "osteoma",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: brady- (медленный), -cardia (сердцебиение)",
+    "answer1": "bradycardia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: tachy- (быстрый), -pnoe (дыхание)",
+    "answer1": "tachypnoe",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: pan- (весь), -carditis (воспаление сердца)",
+    "answer1": "pancarditis",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: dys- (нарушение), -phonia (голос)",
+    "answer1": "dysphonia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: my- (мышца), -algia (боль)",
+    "answer1": "myalgia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: dermat- (кожа), -itis (воспаление)",
+    "answer1": "dermatitis",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: append- (аппендикс), -ectomia (удаление)",
+    "answer1": "appendectomia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: poly- (много), -uria (мочеиспускание)",
+    "answer1": "polyuria",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: haemat- (кровь), -logia (наука)",
+    "answer1": "haematologia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: arthr- (сустав), -itis (воспаление)",
+    "answer1": "arthritis",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: encephal- (головной мозг), -pathia (болезнь)",
+    "answer1": "encephalopathia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: hypo- (пониженный), -glykaemia (уровень сахара в крови)",
+    "answer1": "hypoglykaemia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: tonsill- (миндалины), -ectomia (удаление)",
+    "answer1": "tonsillectomia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: nephr- (почка), -lithiasis (образование камней)",
+    "answer1": "nephrolithiasis",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: mening- (оболочка мозга), -itis (воспаление)",
+    "answer1": "meningitis",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: ot- (ухо), -algia (боль)",
+    "answer1": "otalgia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: phleb- (вена), -itis (воспаление)",
+    "answer1": "phlebitis",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: mast- (грудь), -algia (боль)",
+    "answer1": "mastalgia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: gynaec- (женщина), -logus (врач)",
+    "answer1": "gynaecologus",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: colp- (влагалище), -scopia (осмотр)",
+    "answer1": "colposcopia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: cyst- (мочевой пузырь), -itis (воспаление)",
+    "answer1": "cystitis",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: electro- (электричество), cardi- (сердце), -gramma (запись)",
+    "answer1": "electrocardiogramma",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Составьте термин из: gastr- (желудок), -rrhagia (кровотечение)",
+    "answer1": "gastrorrhagia",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "gastroalgia (gastr- + -algia) ",
+    "answer2": "cardiomegalia (cardi- + -megalia)",
+    "answer3": "bronchoscopia (bronch- + -scopia)",
+    "answer4": "gastritis (gastr- + -itis)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "neuroalgia (neur- + -algia) ",
+    "answer2": "hepatomegalia (hepat- + -megalia)",
+    "answer3": "enteritis (enter- + -itis)",
+    "answer4": "cystoscopia (cyst- + -scopia)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "otoectomia (ot- + -ectomia) ",
+    "answer2": "nephrologia (nephr- + -logia)",
+    "answer3": "dermatopathia (dermat- + -pathia)",
+    "answer4": "gastroscopia (gastr- + -scopia)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "haemrrhagia (haemo- + -rrhagia) ",
+    "answer2": "cardiographia (cardi- + -graphia)",
+    "answer3": "coloscopia (col- + -scopia)",
+    "answer4": "enteropathia (enter- + -pathia)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "gastrscopia (gastr- + -scopia) ",
+    "answer2": "hyperglykaemia (hyper- + glykaem- + -ia)",
+    "answer3": "polyuria (poly- + -uria)",
+    "answer4": "hypothermia (hypo- + -thermia)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "oophoroectomia (oophor- + -ectomia) ",
+    "answer2": "appendectomia (append- + -ectomia)",
+    "answer3": "gastrotomia (gastr- + -tomia)",
+    "answer4": "ostealgia (oste- + -algia)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "phlebgraphia (phleb- + -graphia) ",
+    "answer2": "encephalopathia (encephal- + -pathia)",
+    "answer3": "myocarditis (myo- + cardi- + -itis)",
+    "answer4": "gastrectasia (gastr- + -ectasia)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "oligphrenia (olig- + -phren+ -ia) ",
+    "answer2": "gynecologia (gynec- + -logia)",
+    "answer3": "osteomalacia (oste- + -malacia)",
+    "answer4": "laryngitis (laryng- + -itis)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "dermatlogia (dermat- + -logia) ",
+    "answer2": "tonsillectomia (tonsill- + -ectomia)",
+    "answer3": "hypotensio (hypo- + tensio)",
+    "answer4": "adenoma (aden- + -oma)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "arthroalgia (arthr- + -algia) ",
+    "answer2": "bronchitis (bronch- + -itis)",
+    "answer3": "meningopathia (mening- + -pathia)",
+    "answer4": "myoma (my- + -oma)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "cardigramma (cardi- + -gramma) ",
+    "answer2": "colostomia (col- + -stomia)",
+    "answer3": "neuralgia (neur- + -algia)",
+    "answer4": "gastropathia (gastr- + -pathia)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "hepatgraphia (hepat- + -graphia) ",
+    "answer2": "laryngoscopia (laryng- + -scopia)",
+    "answer3": "encephalitis (encephal- + -itis)",
+    "answer4": "colitis (col- + -itis)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "cystoectomia (cyst- + -ectomia) ",
+    "answer2": "thyreopathia (thyreo- + -pathia)",
+    "answer3": "dysphagia (dys- + -phagia)",
+    "answer4": "pancreatitis (pancreat- + -itis)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "neuroalgia (neur- + -algia) ",
+    "answer2": "metritis (metr- + -itis)",
+    "answer3": "splenectomia (splen- + -ectomia)",
+    "answer4": "proctitis (proct- + -itis)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "enterstomia (enter- + -stomia) ",
+    "answer2": "urographia (ur- + -graphia)",
+    "answer3": "glossitis (gloss- + -itis)",
+    "answer4": "odontopathia (odont- + -pathia)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "ostemalacia (oste- + -malacia) ",
+    "answer2": "pancreatopathia (pancreat- + -pathia)",
+    "answer3": "hepatoscopia (hepat- + -scopia)",
+    "answer4": "myelitis (myel- + -itis)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "nephrscopia (nephr- + -scopia) ",
+    "answer2": "aortectomia (aort- + -ectomia)",
+    "answer3": "angiographia (angi- + -graphia)",
+    "answer4": "arthrosis (arthr- + -osis)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "glossrrhagia (gloss- + -rrhagia) ",
+    "answer2": "keratitis (kerat- + -itis)",
+    "answer3": "cholecystectomia (cholecyst- + -ectomia)",
+    "answer4": "rhinitis (rhin- + -itis)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "cardilogia (cardi- + -logia) ",
+    "answer2": "tachycardia (tachy- + -cardia)",
+    "answer3": "hypotonia (hypo- + -tonia)",
+    "answer4": "pharyngitis (pharyng- + -itis)",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов образован неверно?",
+    "answer1": "encephalpathia (encephal- + -pathia) ",
+    "answer2": "osteopathia (oste- + -pathia)",
+    "answer3": "haemorrhagia (haem- + -rrhagia)",
+    "answer4": "spondylitis (spondyl- + -itis)",
+    "correctAnswer": "1"
+  }
+]

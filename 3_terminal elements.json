@@ -1,0 +1,452 @@
+[
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом nephritis?",
+    "answer1": "inflammatio renis",
+    "answer2": "inflammatio cordis",
+    "answer3": "dolor ventriculi",
+    "answer4": "fractura ossis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует gastralgia?",
+    "answer1": "dolor gastris",
+    "answer2": "hypertrophia cordis",
+    "answer3": "inflammatio renis",
+    "answer4": "mollities ossium",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен hepatomegalia?",
+    "answer1": "hypertrophia hepatis",
+    "answer2": "morbus cerebri",
+    "answer3": "dolor musculi",
+    "answer4": "ruptura vaginae",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует encephalopathia?",
+    "answer1": "morbus cerebri",
+    "answer2": "dolor ventriculi",
+    "answer3": "hypertrophia hepatis",
+    "answer4": "luxatio articulationis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом myalgia?",
+    "answer1": "dolor musculi",
+    "answer2": "inflammatio renis",
+    "answer3": "hepatomegalia",
+    "answer4": "fractura cranii",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен osteomalacia?",
+    "answer1": "mollities ossium",
+    "answer2": "dolor musculi",
+    "answer3": "distorsio musculi",
+    "answer4": "fractura ossis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует cardiomegalia?",
+    "answer1": "hypertrophia cordis",
+    "answer2": "mollities ossium",
+    "answer3": "dolor ventriculi",
+    "answer4": "morbus cerebri",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом hepatitis?",
+    "answer1": "inflammatio hepatis",
+    "answer2": "laceratio hepatis",
+    "answer3": "ruptura hepatis",
+    "answer4": "thrombosis hepatis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует splenomegalia?",
+    "answer1": "hypertrophia lienis",
+    "answer2": "dolor ventriculi",
+    "answer3": "inflammatio renis",
+    "answer4": "mollities ossium",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен arthralgia?",
+    "answer1": "dolor articulationis",
+    "answer2": "morbus articulationis",
+    "answer3": "hypertrophia articulationis",
+    "answer4": "abscessus vulneris",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом myocarditis?",
+    "answer1": "inflammatio cordis",
+    "answer2": "embolus cordis",
+    "answer3": "dolor ventriculi",
+    "answer4": "infarctus cordis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует nephrolithiasis?",
+    "answer1": "calculi renis",
+    "answer2": "dolor musculi",
+    "answer3": "hypertrophia cordis",
+    "answer4": "dolor ventriculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен encephalitis?",
+    "answer1": "inflammatio cerebri",
+    "answer2": "fibrosis cerebri",
+    "answer3": "atrophia cerebri",
+    "answer4": "degeneratio cerebri",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует cholecystitis?",
+    "answer1": "inflammatio vesicae biliaris",
+    "answer2": "dolor musculi",
+    "answer3": "hypertrophia cordis",
+    "answer4": "dolor ventriculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен pancreatitis?",
+    "answer1": "inflammatio pancreatis",
+    "answer2": "dilatatio pancreatis",
+    "answer3": "dolor pancreatis",
+    "answer4": "hypertrophia pancreatis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом cystitis?",
+    "answer1": "inflammatio vesicae urinariae",
+    "answer2": "dolor ventriculi",
+    "answer3": "dilatatio vesicae urinariae",
+    "answer4": "dolor musculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует hepatopathia?",
+    "answer1": "morbus hepatis",
+    "answer2": "morbus cerebri",
+    "answer3": "dolor ventriculi",
+    "answer4": "dolor musculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен splenopathia?",
+    "answer1": "morbus lienis",
+    "answer2": "hypertrophia cordis",
+    "answer3": "dolor musculi",
+    "answer4": "hypertrophia lienis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом nephropathia?",
+    "answer1": "morbus renis",
+    "answer2": "inflammatio renis",
+    "answer3": "dolor ventriculi",
+    "answer4": "dolor musculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует gastropathia?",
+    "answer1": "morbus gastris",
+    "answer2": "dolor musculi",
+    "answer3": "dolor gastris",
+    "answer4": "hypertrophia cordis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен myositis?",
+    "answer1": "inflammatio musculi",
+    "answer2": "mollites musculi",
+    "answer3": "dolor ventriculi",
+    "answer4": "cicatrix musculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом arthritis?",
+    "answer1": "inflammatio articulationis",
+    "answer2": "dolor musculi",
+    "answer3": "sclerosis articulationis",
+    "answer4": "necrosis articulationis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует cardiopathia?",
+    "answer1": "morbus cordis",
+    "answer2": "dolor ventriculi",
+    "answer3": "ruptura cordis",
+    "answer4": "dolor musculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен osteopathia?",
+    "answer1": "morbus ossium",
+    "answer2": "dolor musculi",
+    "answer3": "dolor ventriculi",
+    "answer4": "hypertrophia cordis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом encephalopathia?",
+    "answer1": "morbus cerebri",
+    "answer2": "dolor ventriculi",
+    "answer3": "mollites cerebri",
+    "answer4": "atrophia cerebri",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует pancreatopathia?",
+    "answer1": "morbus pancreatis",
+    "answer2": "dolor ventriculi",
+    "answer3": "necrosis pancreatis",
+    "answer4": "dolor musculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен cholelithiasis?",
+    "answer1": "calculi vesicae biliaris",
+    "answer2": "dolor musculi",
+    "answer3": "hypertrophia cordis",
+    "answer4": "dolor ventriculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом splenomegalia?",
+    "answer1": "hypertrophia lienis",
+    "answer2": "inflammatio renis",
+    "answer3": "dolor ventriculi",
+    "answer4": "dolor musculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует nephromegalia?",
+    "answer1": "hypertrophia renis",
+    "answer2": "dolor ventriculi",
+    "answer3": "oedema renis",
+    "answer4": "dolor musculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен hepatomegalia?",
+    "answer1": "hypertrophia hepatis",
+    "answer2": "dolor musculi",
+    "answer3": "morbus cerebri",
+    "answer4": "thrombosis hepatis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом myocarditis?",
+    "answer1": "inflammatio cordis",
+    "answer2": "dolor ventriculi",
+    "answer3": "dolor musculi",
+    "answer4": "thrombosis cordis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует gastritis?",
+    "answer1": "inflammatio gastris",
+    "answer2": "haemorrhagia gastris",
+    "answer3": "dolor musculi",
+    "answer4": "ruptura gastris",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен arthropathia?",
+    "answer1": "morbus articulationis",
+    "answer2": "dolor musculi",
+    "answer3": "contusio articulationis",
+    "answer4": "abrasio atriculationis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом myopathia?",
+    "answer1": "morbus musculi",
+    "answer2": "dolor ventriculi",
+    "answer3": "necrosis musculi",
+    "answer4": "dolor articulationis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует encephalitis?",
+    "answer1": "inflammatio cerebri",
+    "answer2": "infarctus cerebri",
+    "answer3": "dolor musculi",
+    "answer4": "oedema cerebri",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен ostitis?",
+    "answer1": "inflammatio ossium",
+    "answer2": "dolor musculi",
+    "answer3": "dolor ventriculi",
+    "answer4": "fractura ossis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом hepatitis?",
+    "answer1": "inflammatio hepatis",
+    "answer2": "dolor musculi",
+    "answer3": "necrosis hepatis",
+    "answer4": "dolor ventriculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует cystopathia?",
+    "answer1": "morbus vesicae urinariae",
+    "answer2": "dolor musculi",
+    "answer3": "inflammatio vesicae urinariae",
+    "answer4": "dolor ventriculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен nephropathia?",
+    "answer1": "morbus renis",
+    "answer2": "embolus renis",
+    "answer3": "dolor musculi",
+    "answer4": "atrophia renis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом pancreopathia?",
+    "answer1": "morbus pancreatitis",
+    "answer2": "dolor musculi",
+    "answer3": "dolor ventriculi",
+    "answer4": "dilatatio panreatis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует cholecystopathia?",
+    "answer1": "morbus vesicae biliaris",
+    "answer2": "dolor ventriculi",
+    "answer3": "fibrosis vesicae biliaris",
+    "answer4": "dolor musculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен gastralgia?",
+    "answer1": "dolor gastris",
+    "answer2": "hypertrophia cordis",
+    "answer3": "inflammatio renis",
+    "answer4": "ulcus gastris",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом splenopathia?",
+    "answer1": "morbus lienis",
+    "answer2": "dolor musculi",
+    "answer3": "ruptura lienis",
+    "answer4": "necrosis lienis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует arthralgia?",
+    "answer1": "dolor articulationis",
+    "answer2": "dolor musculi",
+    "answer3": "cirrhosis hepatis",
+    "answer4": "hypertrophia hepatis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен myositis?",
+    "answer1": "inflammatio musculi",
+    "answer2": "dolor ventriculi",
+    "answer3": "ruptura musculi",
+    "answer4": "atrophia musculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом cardiopathia?",
+    "answer1": "morbus cordis",
+    "answer2": "dolor musculi",
+    "answer3": "ischaemia cordis",
+    "answer4": "dolor ventriculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует hepatopathia?",
+    "answer1": "morbus hepatis",
+    "answer2": "dolor musculi",
+    "answer3": "stenosis hepatis",
+    "answer4": "dolor ventriculi",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин синонимичен osteopathia?",
+    "answer1": "morbus ossium",
+    "answer2": "dolor musculi",
+    "answer3": "dolor ventriculi",
+    "answer4": "hypertrophia cordis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин является синонимом encephalopathia?",
+    "answer1": "morbus cerebri",
+    "answer2": "dolor cerebri",
+    "answer3": "degeneratio cerebri",
+    "answer4": "sclerosis cerebri",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Какой термин соответствует nephrolithiasis?",
+    "answer1": "calculi renis",
+    "answer2": "dolor musculi",
+    "answer3": "hypertrophia cordis",
+    "answer4": "dolor ventriculi",
+    "correctAnswer": "1"
+  }
+]

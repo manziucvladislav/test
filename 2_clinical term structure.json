@@ -1,0 +1,542 @@
+[
+  {
+    "type": "QUESTION",
+    "question": "Переведите ПОПЕРЕЧНЫЙ ПЕРЕЛОМ ОСНОВАНИЯ ЧЕРЕПА на латинский язык:",
+    "answer1": "fractura transversa basis cranii ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите  СКЛЕРОЗ КОРОНАРНЫХ АРТЕРИЙ СЕРДЦА на латинский язык:",
+    "answer1": "sclerosis arteriarum coronariarum cordis ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите СИНДРОМ НЕДОСТАТОЧНОСТИ ПЕЧЕНИ на латинский язык:",
+    "answer1": "syndromum insufficientiae hepatis ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ВОСПАЛЕНИЕ ПЕЧЕНИ на латинский язык:",
+    "answer1": "inflammatio hepatis",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите РАЗРЫВ СЕЛЕЗЁНКИ на латинский язык:",
+    "answer1": "ruptura lienis ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ОСТРАЯ ПОЧЕЧНАЯ НЕДОСТАТОЧНОСТЬ на латинский язык:",
+    "answer1": "insufficientia renalis acuta ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите РАЗРЫВ МЕЖЖЕЛУДОЧКОВОЙ ПЕРЕГОРОДКИ на латинский язык:",
+    "answer1": "ruptura septi interventricularis ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ОСТРАЯ НЕДОСТАТОЧНОСТЬ КЛАПАНА СЕРДЦА на латинский язык:",
+    "answer1": "insufficiencia acuta valvae cordis ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ПРИОБРЕТЁННЫЙ ПОРОК СЕРДЦА на латинский язык:",
+    "answer1": "vitium acquisitum cordis ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ВАРИКОЗНАЯ ЯЗВА на латинский язык:",
+    "answer1": "ulcus varicosum",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ДОБРОКАЧЕСТВЕННАЯ ОПУХОЛЬ НОСА на латинский язык:",
+    "answer1": "tumor benignus nasi",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ОСТРЫЙ ПСИХОЗ на латинский язык:",
+    "answer1": "psychosis acuta",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ХРОНИЧЕСКИЙ ПСИХОЗ на латинский язык: ",
+    "answer1": "psychosis chronica",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ЗЛОКАЧЕСТВЕННАЯ ГЛАУКОМА на латинский язык:",
+    "answer1": "glaucoma malignum",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ИШЕМИЧЕСКАЯ БОЛЕЗНЬ СЕРДЦА на латинский язык:",
+    "answer1": "morbus ischaemicus cordis ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите VITIUM VALVAE MITRALIS на русский язык:",
+    "answer1": "порок митрального клапана ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ULCUS ACUTUM на русский язык:",
+    "answer1": "острая язва",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ULCUS CHRONICUM на русский язык:",
+    "answer1": "хроническая язва ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите TUMOR MALIGNUS на русский язык:",
+    "answer1": "злокачественная опухоль ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите TUMOR BENIGNUS на русский язык:",
+    "answer1": "доброкачественная опухоль",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ULCUS VENTRICULI на русский язык:",
+    "answer1": "язва желудка ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ULCUS DUODENI на русский язык:",
+    "answer1": "язва двенадцатиперстной кишки ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ICTERUS MEDICAMENTOSUS на русский язык:",
+    "answer1": "медикаментозная желтуха ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ICTERUS MALIGNUS на русский язык:",
+    "answer1": "злокачественная желтуха ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ICTERUS PHYSIOLOGICUS на русский язык:",
+    "answer1": "физиологическая желтуха ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ICTERUS TOXICUS на русский язык:",
+    "answer1": "токсическая желтуха ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите ICTERUS PHYSIOLOGICUS NEONATORUM на русский язык:",
+    "answer1": "физиологическая желтуха новорожденных ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите NECROSIS (омертвение) MUSCULI на русский язык:",
+    "answer1": "омертвение мышцы ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите OEDEMA FACIEI на русский язык:",
+    "answer1": "отек лица ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "question": " Переведите NECROSIS ACUTA PANCREATIS на русский язык:",
+    "answer1": "острый некроз поджелудочной железы ",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов включает согласованное прилагательное?",
+    "answer1": "morbus infectiosus",
+    "answer2": "infarctus cordis",
+    "answer3": "syndromum nervi",
+    "answer4": "fractura cranii",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин является многословным?",
+    "answer1": "fractura basis cranii",
+    "answer2": "pneumonia",
+    "answer3": "abscessus",
+    "answer4": "colica",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает родительный падеж в терминологии?",
+    "answer1": "уточняет принадлежность",
+    "answer2": "указывает на воспаление",
+    "answer3": "согласуется по роду",
+    "answer4": "ставится всегда в конце",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин содержит несогласованное определение?",
+    "answer1": "infarctus myocardii",
+    "answer2": "morbus acutus",
+    "answer3": "cancer malignus",
+    "answer4": "sclerosis disseminata",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что общего у терминов vitium cordis и fractura cruris?",
+    "answer1": "оба содержат родительный падеж",
+    "answer2": "оба согласованы по падежу",
+    "answer3": "оба содержат прилагательные",
+    "answer4": "оба являются простыми",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какая структура характерна для латинского клинического термина?",
+    "answer1": "существительное + прилагательное/род. падеж",
+    "answer2": "наречие + существительное",
+    "answer3": "глагол + существительное",
+    "answer4": "прилагательное + глагол",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какая форма правильна согласно латинской грамматике?",
+    "answer1": "morbus cordis",
+    "answer2": "morbus cordi",
+    "answer3": "morbus cordem",
+    "answer4": "morbus cordae",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин нарушает грамматическое согласование?",
+    "answer1": "morbus acuta",
+    "answer2": "sclerosis disseminata",
+    "answer3": "insufficientia acuta",
+    "answer4": "ruptura uteri",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин состоит из 3 слов?",
+    "answer1": "fractura basis cranii",
+    "answer2": "infarctus myocardii",
+    "answer3": "abscessus cerebri",
+    "answer4": "sclerosis multiplex",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин является простым (однословным)?",
+    "answer1": "colica",
+    "answer2": "infarctus myocardii",
+    "answer3": "syndromum cerebri",
+    "answer4": "fractura cruris",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин содержит согласованное определение?",
+    "answer1": "morbus infectiosus",
+    "answer2": "ruptura ligamenti",
+    "answer3": "infarctus cordis",
+    "answer4": "vitium pulmonum",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "В термине fractura humeri слово HUMERI — это:",
+    "answer1": "существительное в родительном падеже",
+    "answer2": "прилагательное",
+    "answer3": "наречие",
+    "answer4": "множественное число в дательном падеже",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что делает прилагательное DISSEMINATA в термине sclerosis disseminata?",
+    "answer1": "Согласуется с sclerosis по роду, числу и падежу",
+    "answer2": "Определяет локализацию",
+    "answer3": "Выражает симптом",
+    "answer4": "Не влияет на структуру",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин соответствует правилу 'сущ. + сущ. в род. падеже'?",
+    "answer1": "infarctus cordis",
+    "answer2": "infectiosus morbus",
+    "answer3": "comminutiva fractura",
+    "answer4": "nervus acutus",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Где допущена грамматическая ошибка?",
+    "answer1": "inflammatio acutus",
+    "answer2": "cancer cervicis",
+    "answer3": "fractura basis cranii",
+    "answer4": "insufficientia valvae mitralis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "В каком термине прилагательное согласовано правильно?",
+    "answer1": "fractura transversa",
+    "answer2": "sclerosis disseminatus",
+    "answer3": "morbus acuta",
+    "answer4": "ruptura femoris dextrum",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин имеет структуру: сущ. + согласованное прилагательное + сущ. в род. падеж?",
+    "answer1": "fractura comminutiva cruris",
+    "answer2": "infarctus musculi myocardii ",
+    "answer3": "ruptura cordis hominis",
+    "answer4": "sclerosis tendonum multiplicium",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "В термине syndromum cerebri acutum нарушено:",
+    "answer1": "порядок слов",
+    "answer2": "согласование прилагательного",
+    "answer3": "управление",
+    "answer4": "падеж существительного",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что из этого — согласованное определение?",
+    "answer1": "acutus",
+    "answer2": "cordis",
+    "answer3": "cerebri",
+    "answer4": "myocardii",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой порядок слов соответствует латинскому стандарту?",
+    "answer1": "morbus infectiosus",
+    "answer2": "acuta insufficientia",
+    "answer3": "cordis vitium",
+    "answer4": "uteri ruptura",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "В термине fractura transversa humeri sinistri слово sinistri согласуется с:",
+    "answer1": "humeri",
+    "answer2": "fractura",
+    "answer3": "transversa",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов содержит 2 согласованных элемента и 1 несогласованный?",
+    "answer1": "sclerosis arteriarum coronariarum cordis",
+    "answer2": "inflammatio lobi hepatis",
+    "answer3": "oedema pulmonis dextri",
+    "answer4": "ruptura longitudinalis musculi colli ",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой из терминов оформлен по правилам латинской грамматики?",
+    "answer1": "morbus myocardii",
+    "answer2": "ruptura cordem",
+    "answer3": "sclerosis disseminatus",
+    "answer4": "fractura basis cranium",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что общего у терминов cancer cervicis и infarctus hepatis?",
+    "answer1": "в обоих — родительный падеж",
+    "answer2": "в обоих есть прилагательное",
+    "answer3": "оба простые термины",
+    "answer4": "у обоих есть согласованное определение в род.падеже",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин включает нарушение управления?",
+    "answer1": "infarctus cordae",
+    "answer2": "ruptura uteri",
+    "answer3": "morbus cordis",
+    "answer4": "vitium pulmonum",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин оформлен как «сущ. + прил. + сущ. в род. падеже»?",
+    "answer1": "morbus acutus cordis",
+    "answer2": "fractura basis cranii",
+    "answer3": "infectiosus morbus cordis",
+    "answer4": "cordis vitium acutum",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин состоит из одного существительного и одного прилагательного?",
+    "answer1": "morbus infectiosus",
+    "answer2": "infarctus myocardii",
+    "answer3": "ruptura basis cranii",
+    "answer4": "abscessus hepatis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин правильный по латинской грамматике?",
+    "answer1": "infarctus myocardii ",
+    "answer2": "ruptura cordem",
+    "answer3": "morbus acutusum",
+    "answer4": "fractura cranii basis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "В каком термине прилагательное согласуется с существительным по роду, числу и падежу?",
+    "answer1": "sclerosis disseminata ",
+    "answer2": "morbus acuta",
+    "answer3": "infarctus cordis",
+    "answer4": "ruptura uteri",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Какой термин является простым (однословным)?",
+    "answer1": "abscessus ",
+    "answer2": "fractura basis cranii",
+    "answer3": "syndromum nervi",
+    "answer4": "morbus infectiosus",
+    "correctAnswer": "1"
+  }
+]
